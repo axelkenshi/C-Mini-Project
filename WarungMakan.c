@@ -1,7 +1,6 @@
-// ! Order Foods simulation of indonesian local restaurant.
+// ! Order Foods simulation of local restaurant.
 // ! This is a simple console application in CLI.
 // ? Using Modular technique
-// ? Made by Love Beginner Dev., Alexander Kart van Stein.
 // * program code in below, open source for learning ^-^
 #include <stdio.h>
 #include <stdlib.h>
